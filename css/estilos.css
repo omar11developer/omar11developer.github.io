@@ -1,0 +1,98 @@
+
+
+html{
+	scroll-behavior: smooth;
+}
+
+.menu li a{
+   padding: 0px 20px !important;
+   
+}
+
+
+
+
+.caja-info{
+   margin-top:80px;
+   background: rgba(51, 50, 50, 0.5);
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: 110px;
+  padding: 10px;
+  
+  
+}
+.banner{
+    background-image: url(../img/banner.jpg);
+    background-size: cover;
+    height: 650px;
+}
+.caja-info h1{
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 80px;
+    padding: 40px 0px 0px 50px;
+    color: rgb(245, 115, 223);
+}
+.caja-info p{
+  
+    line-height: 1.5;
+   
+    text-align: center;
+    font-size: 30px;
+}
+
+.cont-info h1{
+    text-align: center;
+    font-family: anton;
+    margin-bottom: 20px;
+    margin-top: 10px;
+
+}
+.cont-img img{
+    border-radius: 5px;
+}
+.cont-info p{
+    text-align: justify;
+    font-size: 25px;
+    line-height: 1.5;
+}
+.subtitulo{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: anton;
+}
+.caja-politicas {
+    
+    line-height: 1.5;
+    font-size: 18px;
+}
+.btn-enviar{
+  float: right !important;
+  width: 100px !important;
+}
+.span{
+    color: gray;
+}
+.info-contacto{
+    color: white;
+}
+.info-contacto h2{
+   font-size: 20px;
+}
+.info-contacto p{
+    font-size: 18px;
+ }
+
+.info-redes{
+    color: #ffffff !important;
+}
+.info-redes h2{
+    font-size: 20px;
+    
+ }
+ .info-redes p{
+     font-size: 18px;
+     line-height: 1.0;
+  }
